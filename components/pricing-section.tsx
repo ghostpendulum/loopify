@@ -37,7 +37,7 @@ export const PricingSection = () => {
           <div className="text-center max-w-2xl mx-auto mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-neutral-900 tracking-tight mb-4">Simple pricing</h2>
             <p className="text-lg text-neutral-600 leading-relaxed">
-              Sign up free and open Amplift AI Studio. Paid plans add monthly video credits; top-ups available inside the app.
+              Sign up free and open Amplift. Paid plans add monthly video credits; top-ups available inside the app.
             </p>
           </div>
         </Reveal>
@@ -52,7 +52,7 @@ export const PricingSection = () => {
               <p className="text-sm font-semibold text-neutral-500 uppercase tracking-wide mb-2">Try free</p>
               <h3 className="text-2xl font-bold text-neutral-900 mb-2">Sign up free</h3>
               <p className="text-neutral-600 text-sm leading-relaxed mb-6 flex-1">
-                Create an account in Amplift AI Studio at no cost. Generations use credits—add a plan or top-up when you are ready.
+                Create an account in Amplift at no cost. Generations use credits—add a plan or top-up when you are ready.
               </p>
               <ul className="space-y-3 mb-8">
                 {["Full generator and presets", "LinkedIn, X, and Instagram formats", "Manage billing in the app"].map((item) => (
@@ -125,7 +125,7 @@ export const PricingSection = () => {
               ))}
             </p>
             <p className="text-xs text-neutral-400 mt-4">
-              Prices match <span className="text-neutral-600">Amplift AI Studio</span> checkout.
+              Prices match <span className="text-neutral-600">Amplift</span> checkout.
             </p>
           </div>
         </Reveal>
